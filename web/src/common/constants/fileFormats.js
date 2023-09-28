@@ -18,6 +18,9 @@ export const modelFileFormats = [
     ".3mf",
     ".off",
     ".bim",
+    ".unity3d",
+    ".json",
+    ".usd"
 ];
 export const columnarFileFormats = [".rds", ".fcs", ".csv"];
 export const previewFileFormats = [".png", ".jpg", ".svg", ".gif"];
