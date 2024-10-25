@@ -6,14 +6,14 @@ authors = ["Ravi Jadhav <jadravi@amazon.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-requests = "^2.31.0"
+requests = "^2.32.2"
 stepfunctions = "^2.3.0"
 protobuf = "3.20.*"
 aws-lambda-powertools = "^2.7.1"
-pydantic = "^1.10.4"
+pydantic = "^1.10.13"
 boto3-stubs = {extras = ["stepfunctions"], version = "^1.26.69"}
-Werkzeug = "^2.2.3"
-certifi = "2023.7.22"
+Werkzeug = "^3.0.6"
+certifi = "2024.7.4"
 opensearch-py = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
